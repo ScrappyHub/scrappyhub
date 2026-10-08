@@ -10,14 +10,14 @@ Systems architect and platform engineer. I build **Constellation**: a federation
 
 | Family | What it does | Start with |
 |---|---|---|
-| **Covenant Systems** | governance | [Covenant Gate](https://github.com/ScrappyHub/governance-interface), [LawVM](https://github.com/ScrappyHub/LawVM), [Arbiter](https://github.com/ScrappyHub/Arbiter), [Convergence Suite](https://github.com/ScrappyHub/convergence-suite) |
-| **Atlas Systems** | recovery | [AssembleLink](https://github.com/ScrappyHub/assemblelink), [SoteriaVault](https://github.com/ScrappyHub/soteriavault), [Atlas Update](https://github.com/ScrappyHub/atlas-artifacts), [Live State Surgeon](https://github.com/ScrappyHub/live-state-surgeon) |
+| **Covenant Systems** | governance | [Covenant Gate](https://github.com/ScrappyHub/governance-interface), [LawVM](https://github.com/ScrappyHub/LawVM), [NeverLost](https://github.com/ScrappyHub/NeverLost), [Arbiter](https://github.com/ScrappyHub/Arbiter) |
+| **Atlas Systems** | recovery | [AssembleLink](https://github.com/ScrappyHub/assemblelink), [Legacy Doctor](https://github.com/ScrappyHub/legacy-doctor), [SoteriaVault](https://github.com/ScrappyHub/soteriavault), [TRIAD](https://github.com/ScrappyHub/triad) |
 | **Fides Systems** | verification | [Never Forgetting Ledger](https://github.com/ScrappyHub/never-forgetting-ledger), [APV](https://github.com/ScrappyHub/apv), [Claim Protocol](https://github.com/ScrappyHub/claim-protocol), [CPR](https://github.com/ScrappyHub/CPR) |
 | **Anchor System** | security | [AnchorMark](https://github.com/ScrappyHub/AnchorMark), [Clarity](https://github.com/ScrappyHub/clarity), [GOS Runtime](https://github.com/ScrappyHub/GOS), [StaticHarbor](https://github.com/ScrappyHub/StaticHarbor) |
-| **AION Systems** | intelligence | [HelpCC](https://github.com/ScrappyHub/helpcc), [KoiosAI](https://github.com/ScrappyHub/koiosai), [Observatory](https://github.com/ScrappyHub/observatory), [Personal Intelligence Engine](https://github.com/ScrappyHub/personal-intelligence-engine) |
+| **AION Systems** | intelligence | [HAAI](https://github.com/ScrappyHub/HAAI), [HelpCC](https://github.com/ScrappyHub/helpcc), [KoiosAI](https://github.com/ScrappyHub/koiosai), [Observatory](https://github.com/ScrappyHub/observatory) |
 | **Rooted** | civic platform | [Rooted](https://github.com/ScrappyHub/rooted-platform) |
 | **Core** | compute | [ACompute](https://github.com/ScrappyHub/ACompute), [CORE Platform](https://github.com/ScrappyHub/Core-platform), [DSSE](https://github.com/ScrappyHub/deterministic-scenario-simulation-engine), [RIE](https://github.com/ScrappyHub/rie) |
-| **Venture Labs** | experimentation | [Rebound](https://github.com/ScrappyHub/Rebound) |
+| **Venture Labs** | experimentation | [Recognition](https://github.com/ScrappyHub/Recognition), [InfraBound](https://github.com/ScrappyHub/infrabound), [ProteusOps](https://github.com/ScrappyHub/proteus-ops), [Rebound](https://github.com/ScrappyHub/Rebound) |
 | **Chronicle Systems** | interactive worlds | [Legacy Player](https://github.com/ScrappyHub/legacy-player), [CDE](https://github.com/ScrappyHub/CDE) |
 
 ## Start here
@@ -44,6 +44,7 @@ Systems architect and platform engineer. I build **Constellation**: a federation
 - [LawVM](https://github.com/ScrappyHub/LawVM): [latest release](https://github.com/ScrappyHub/LawVM/releases/latest)
 - [Legacy Player](https://github.com/ScrappyHub/legacy-player): [latest release](https://github.com/ScrappyHub/legacy-player/releases/latest)
 - [Never Forgetting Ledger](https://github.com/ScrappyHub/never-forgetting-ledger): [latest release](https://github.com/ScrappyHub/never-forgetting-ledger/releases/latest)
+- [ProteusOps](https://github.com/ScrappyHub/proteus-ops): [latest release](https://github.com/ScrappyHub/proteus-ops/releases/latest)
 - [Recognition](https://github.com/ScrappyHub/Recognition): [latest release](https://github.com/ScrappyHub/Recognition/releases/latest)
 - [ShadowProfile](https://github.com/ScrappyHub/shadowprofile): [latest release](https://github.com/ScrappyHub/shadowprofile/releases/latest)
 - [ShutterWall](https://github.com/ScrappyHub/ShutterWall): [latest release](https://github.com/ScrappyHub/ShutterWall/releases/latest)
@@ -57,4 +58,4 @@ Systems architect and platform engineer. I build **Constellation**: a federation
 - **Local first.** Data stays on your machine unless you choose otherwise.
 - **Clear boundaries.** Each system states what it owns and what it leaves to others.
 
-<sub>Generated from the Constellation registry (v2.7.0).</sub>
+<sub>Generated from the Constellation registry (v2.8.0).</sub>
