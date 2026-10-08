@@ -58,4 +58,4 @@ Systems architect and platform engineer. I build **Constellation**: a federation
 - **Local first.** Data stays on your machine unless you choose otherwise.
 - **Clear boundaries.** Each system states what it owns and what it leaves to others.
 
-<sub>Generated from the Constellation registry (v2.9.0).</sub>
+<sub>Generated from the Constellation registry (v2.10.0).</sub>
