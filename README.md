@@ -4,7 +4,7 @@ Systems architect and platform engineer. I build **Constellation**: a federation
 
 **[theconstellationnetwork.com](https://theconstellationnetwork.com)** · [Integration map](https://theconstellationnetwork.com/ecosystem) · [Live demos](https://theconstellationnetwork.com/demos) · [Downloads](https://theconstellationnetwork.com/downloads) · [Constellation repo](https://github.com/ScrappyHub/constellation)
 
-81 systems · 9 families · 62 public repositories · 108 integrations
+81 systems · 9 families · 62 public repositories · 116 integrations
 
 ## The families
 
@@ -58,4 +58,4 @@ Systems architect and platform engineer. I build **Constellation**: a federation
 - **Local first.** Data stays on your machine unless you choose otherwise.
 - **Clear boundaries.** Each system states what it owns and what it leaves to others.
 
-<sub>Generated from the Constellation registry (v2.10.0).</sub>
+<sub>Generated from the Constellation registry (v2.11.0).</sub>
